@@ -1,9 +1,4 @@
-import {
-  Banditbul,
-  createMcpServer,
-  type BanditbulConfig,
-  type LearningPolicy,
-} from 'n2-banditbul';
+import { Banditbul, type BanditbulConfig, type LearningPolicy } from 'n2-banditbul';
 
 const config: BanditbulConfig = {
   study_topics: [{ category: 'code', queries: ['Rust ownership'] }],
@@ -27,5 +22,4 @@ const history: Array<{ id: string; state: 'running' | 'completed' | 'cancelled' 
   learner.history();
 const cycle = learner.getCycle('request');
 const count: number | undefined = cycle?.jobs[0]?.new_insights;
-const server = createMcpServer(learner);
-void [state, history, count, server, learner.close()];
+void [state, history, count, learner.close()];
