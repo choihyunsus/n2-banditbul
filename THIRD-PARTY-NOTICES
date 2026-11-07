@@ -1,0 +1,27 @@
+N2 Banditbul adapts the idle-learning lifecycle of N2 Daebung.
+The project source is distributed under the MIT license in LICENSE.
+
+Direct runtime dependencies retain their upstream licenses.
+
+n2-kraken 1.0.0
+https://github.com/choihyunsus/n2-kraken
+MIT. Its release includes native source, dependency notices and BoringSSL terms.
+
+n2-mimir 3.0.3
+https://github.com/choihyunsus/n2-mimir
+The published Mimir non-commercial/commercial terms apply. See LICENSE-N2-MIMIR
+and the dependency package's license and attribution files.
+
+@modelcontextprotocol/sdk
+https://github.com/modelcontextprotocol/typescript-sdk
+MIT
+
+better-sqlite3
+https://github.com/WiseLibs/better-sqlite3
+MIT
+
+zod
+https://github.com/colinhacks/zod
+MIT
+
+Exact dependency resolutions are recorded in package-lock.json in the source repository.
