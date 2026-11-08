@@ -6,7 +6,20 @@
 
 [English](README.md)
 
+<p align="center">
+  <img src="https://github.com/choihyunsus/n2-banditbul/raw/refs/heads/main/docs/images/comic.png" alt="사용자가 주제를 정하고 실행을 켭니다. 쉬는 동안 자료와 출처를 모아 두고, 돌아오면 내용을 검토합니다." width="640">
+</p>
+
+사용자가 주제를 정하고 실행을 켭니다. 쉬는 동안 자료와 출처를 모아 두고, 돌아오면 내용을 검토합니다.
+
+기능을 이야기로 표현한 만화입니다. 실제 앱 화면은 아닙니다.
+
+<details>
+<summary>동작 흐름 펼쳐 보기</summary>
+
 ![학습 주제 설정 → 쉬는 동안 조사 → 참고 자료 저장](https://github.com/choihyunsus/n2-banditbul/raw/refs/heads/main/docs/images/overview.ko.svg)
+
+</details>
 
 ## 이런 때 사용하세요
 

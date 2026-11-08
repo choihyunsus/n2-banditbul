@@ -6,7 +6,20 @@
 
 [한국어](README.ko.md)
 
+<p align="center">
+  <img src="https://github.com/choihyunsus/n2-banditbul/raw/refs/heads/main/docs/images/comic.png" alt="Research selected topics while an AI is idle and save material with sources for future work." width="640">
+</p>
+
+Research selected topics while an AI is idle and save material with sources for future work.
+
+A story illustrating the feature, rather than a screenshot of the app.
+
+<details>
+<summary>View the workflow</summary>
+
 ![Choose study topics → Research during idle time → Save reference material](https://github.com/choihyunsus/n2-banditbul/raw/refs/heads/main/docs/images/overview.svg)
+
+</details>
 
 ## When to use it
 
